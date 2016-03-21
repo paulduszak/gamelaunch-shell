@@ -1,7 +1,7 @@
 {
   "name": "bootbuilder",
   "version": "1.0.0",
-  "description": "A wizard to automates custom Windows PE boot image creation",
+  "description": "A wizard to automate custom Windows PE boot image creation",
   "main": "app.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

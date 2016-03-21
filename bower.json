@@ -1,0 +1,25 @@
+{
+  "name": "bootbuilder",
+  "description": "A wizard to automates custom Windows PE boot image creation",
+  "main": "app.js",
+  "authors": [
+    "Paul Duszak"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.2",
+    "angular-bootstrap": "^1.2.5",
+    "angular-route": "^1.5.2"
+  }
+}

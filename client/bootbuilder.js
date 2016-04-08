@@ -1,5 +1,5 @@
 (function() {
-    angular.module('bootbuilder', ['ngRoute', 'ui.bootstrap']);
+    angular.module('bootbuilder', ['ngRoute', 'ui.bootstrap', 'mgo-angular-wizard']);
 
     var config = function($routeProvider, $locationProvider) {
 

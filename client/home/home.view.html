@@ -4,14 +4,22 @@
 <div id="main">
 	<div class="row">
 		<div class="col-lg-12">
-			<h3>Windows ADK Configuration</h3>
-			<div class="panel panel-default">
-			  <div class="panel-heading">ADK Install Path</div>
-			  <div class="panel-body">
-				<label>ADK Install Location:</label>
-				<div bb-file-browser></div>
-			  </div>
-			</div>
+			<wizard on-finish="finishedWizard()" template="client/home/wizard.template.html"> 
+				<wz-step title="Windows ADK Configuration" template="client/home/step.template.html">
+					<h1>This is the first step</h1>
+					<p>Here you can use whatever you want. You can use other directives, binding, etc.</p>
+					<input type="submit" wz-next value="Continue" />
+				</wz-step>
+				<wz-step title="Continuing" template="client/home/step.template.html">
+					<h1>Continuing</h1>
+					<p>You have continued here!</p>
+					<input type="submit" wz-next value="Go on" />
+				</wz-step>
+				<wz-step title="More steps" template="client/home/step.template.html">
+					<p>Even more steps!!</p>
+					<input type="submit" wz-next value="Finish now" />
+				</wz-step>
+			</wizard>
 		</div>
 	</div>
 </div>

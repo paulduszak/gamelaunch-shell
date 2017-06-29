@@ -1,6 +1,6 @@
 {
   "name": "bootbuilder",
-  "description": "A game launch wizard",
+  "description": "A Microsoft Window's shell to launch games",
   "main": "app.js",
   "authors": [
     "Paul Duszak"

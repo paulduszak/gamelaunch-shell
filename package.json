@@ -1,7 +1,7 @@
 {
   "name": "cdmlaunch",
   "version": "1.0.0",
-  "description": "A game launch wizard",
+  "description": "A Microsoft Window's shell to launch games",
   "main": "app.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

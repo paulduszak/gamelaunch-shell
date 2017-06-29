@@ -8,9 +8,10 @@
   },
   "author": "Paul Duszak",
   "window": {
-    "toolbar": true,
-    "width": 800,
-    "height": 500
+    "toolbar": false,
+    "fullscreen": true,
+    "frame": false,
+    "resizable": false
   },
   "dependencies": {}
 }

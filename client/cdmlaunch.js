@@ -1,5 +1,5 @@
 (function() {
-    angular.module('bootbuilder', ['ngRoute', 'ui.bootstrap', 'mgo-angular-wizard']);
+    angular.module('cdmlaunch', ['ngRoute', 'ui.bootstrap']);
 
     var config = function($routeProvider, $locationProvider) {
 
@@ -15,6 +15,6 @@
     }
 
     angular
-        .module('bootbuilder')
+        .module('cdmlaunch')
         .config(['$routeProvider', '$locationProvider', config]);
 })();

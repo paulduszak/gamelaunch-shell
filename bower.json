@@ -1,11 +1,10 @@
 {
   "name": "bootbuilder",
-  "description": "A wizard to automates custom Windows PE boot image creation",
+  "description": "A game launch wizard",
   "main": "app.js",
   "authors": [
     "Paul Duszak"
   ],
-  "license": "MIT",
   "moduleType": [],
   "homepage": "",
   "private": true,
@@ -20,7 +19,6 @@
     "bootstrap": "^3.3.6",
     "angular": "^1.5.2",
     "angular-bootstrap": "^1.2.5",
-    "angular-route": "^1.5.2",
-    "angular-wizard": "^0.6.1"
+    "angular-route": "^1.5.2"
   }
 }

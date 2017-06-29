@@ -1,7 +1,7 @@
 {
-  "name": "bootbuilder",
+  "name": "cdmlaunch",
   "version": "1.0.0",
-  "description": "A wizard to automate custom Windows PE boot image creation",
+  "description": "A game launch wizard",
   "main": "app.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +12,5 @@
     "width": 800,
     "height": 500
   },
-  "license": "MIT",
   "dependencies": {}
 }

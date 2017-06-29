@@ -4,6 +4,6 @@
     };
 
     angular
-        .module('bootbuilder')
+        .module('cdmlaunch')
         .controller('homeCtrl', homeCtrl);
 })();

@@ -1,3 +1,59 @@
 body {
   background: #262626;
+  padding-top: 64px;
+}
+
+.navbar {
+ background: #181818;
+ color: #484848;
+ height: 64px;
+}
+
+.toolbar {
+ background: #0068ac;
+ border-top: 1px solid #0089e2;
+ height: 50px;
+}
+
+.shield {
+    height: 58px;
+}
+
+#custom-search-input{
+    border-right: 1px solid #005e9b;
+    height: 49px;
+}
+
+#custom-search-input input{
+    color: #8cb2ca;
+    border: 0;
+    box-shadow: none;
+    background: transparent;
+    padding-top: 15px;
+}
+
+#custom-search-input input::-webkit-input-placeholder {
+    color: #8cb2ca;
+}
+
+#custom-search-input button{
+
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    height: 50px;
+
+
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input .glyphicon-search{
+    color: #8cb2ca;
+    font-size: 18px;
+    padding-top: 3px;
 }

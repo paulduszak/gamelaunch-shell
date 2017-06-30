@@ -2,7 +2,7 @@
 
     var clNav = function() {
 
-        var clNav = ['$scope', function($scope) {
+        var clNavCtrl = ['$scope', function($scope) {
             $scope.siteTitle = "cdm launch";
         }];
 

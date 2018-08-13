@@ -9,9 +9,11 @@
   "author": "Paul Duszak",
   "window": {
     "toolbar": false,
+	"always_on_top" : false,
     "fullscreen": true,
     "frame": false,
-    "resizable": false
+    "resizable": false,
+	"kiosk": true
   },
   "dependencies": {}
 }

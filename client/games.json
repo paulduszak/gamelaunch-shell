@@ -1,0 +1,236 @@
+[
+	{
+		"name": "Amnesia The Dark Descent",
+		"path": "\"D:\\Games\\Amnesia The Dark Descent.exe\"",
+		"background": "client\\img\\games\\backgrounds\\amnesia.jpg",
+		"icon": "client\\img\\games\\amnesia.jpg"
+	},
+	{
+		"name": "Auditorium",
+		"path": "\"D:\\Games\\Auditorium.exe\"",
+		"background": "client\\img\\games\\backgrounds\\auditorium.jpg",
+		"icon": "client\\img\\games\\auditorium.jpg"
+	},
+	{
+		"name": "The Beginner's Guide",
+		"path": "C:\\Program Files\\Riot Games\\The Beginners Guide.exe",
+		"background": "client\\img\\games\\backgrounds\\beginnersbg.jpg",
+		"icon": "client\\img\\games\\beginners.jpg"
+	},
+	{
+		"name": "Binding of Isaac",
+		"path": "\"D:\\Games\\Binding of Isaac.exe\"",
+		"background": "client\\img\\games\\backgrounds\\binding.jpg",
+		"icon": "client\\img\\games\\binding.jpg"
+	},
+	{
+		"name": "Braid",
+		"path": "\"D:\\Games\\Braid.exe\"",
+		"background": "client\\img\\games\\backgrounds\\braid.jpg",
+		"icon": "client\\img\\games\\Braid.jpg"
+	},
+	{
+		"name": "Counter Strike Global Offensive",
+		"path": "\"D:\\Games\\Counter Strike Global Offensive.exe\"",
+		"background": "client\\img\\games\\backgrounds\\csgo.jpg",
+		"icon": "client\\img\\games\\csgo.jpg"
+	},
+	{
+		"name": "Cuphead",
+		"path": "C:\\Program Files\\Riot Games\\Cuphead.exe",
+		"background": "client\\img\\games\\backgrounds\\cupheadbg.jpg",
+		"icon": "client\\img\\games\\cuphead.jpg"
+	},
+	{
+		"name": "Darkest Dungeon",
+		"path": "\"D:\\Games\\Darkest Dungeon.exe\"",
+		"background": "client\\img\\games\\backgrounds\\darkestdungeon.jpg",
+		"icon": "client\\img\\games\\darkestdungeon.jpg"
+	},
+	{
+		"name": "DayZ",
+		"path": "\"D:\\Games\\DayZ.exe\"",
+		"background": "client\\img\\games\\backgrounds\\dayz.jpg",
+		"icon": "client\\img\\games\\dayz.jpg"
+	},
+	{
+		"name": "Deus Ex Human Revolution",
+		"path": "\"D:\\Games\\Deus Ex Human Revolution.exe\"",
+		"background": "client\\img\\games\\backgrounds\\deusexhr.jpg",
+		"icon": "client\\img\\games\\deusexhr.jpg"
+	},
+	{
+		"name": "Dungeon Siege III",
+		"path": "\"D:\\Games\\Dungeon Siege III.exe\"",
+		"background": "client\\img\\games\\backgrounds\\dungeonsiege.jpg",
+		"icon": "client\\img\\games\\dungeonsiege.jpg"
+	},
+	{
+		"name": "Duskers",
+		"path": "\"D:\\Games\\Duskers.exe\"",
+		"background": "client\\img\\games\\backgrounds\\duskers.jpg",
+		"icon": "client\\img\\games\\duskers.jpg"
+	},
+	{
+		"name": "Elegy",
+		"path": "\"D:\\Games\\Elegy.exe\"",
+		"background": "client\\img\\games\\backgrounds\\elegy.jpg",
+		"icon": "client\\img\\games\\elegy.jpg"
+	},
+	{
+		"name": "Everything",
+		"path": "\"D:\\Games\\Everything.exe\"",
+		"background": "client\\img\\games\\backgrounds\\everything.jpg",
+		"icon": "client\\img\\games\\everything.jpg"
+	},
+	{
+		"name": "Fran Bow",
+		"path": "\"D:\\Games\\Fran Bow.exe\"",
+		"background": "client\\img\\games\\backgrounds\\franbow.jpg",
+		"icon": "client\\img\\games\\franbow.jpg"
+	},
+	{
+		"name": "Goat Simulator",
+		"path": "\"D:\\Games\\Goat Simulator.exe\"",
+		"background": "client\\img\\games\\backgrounds\\goats.jpg",
+		"icon": "client\\img\\games\\goats.jpg"
+	},
+	{
+		"name": "Gone Home",
+		"path": "\"D:\\Games\\Gone Home.exe\"",
+		"background": "client\\img\\games\\backgrounds\\gonehome.jpg",
+		"icon": "client\\img\\games\\gonehome.jpg"
+	},
+	{
+		"name": "In Between",
+		"path": "\"D:\\Games\\In Between.exe\"",
+		"background": "client\\img\\games\\backgrounds\\inbetween.jpg",
+		"icon": "client\\img\\games\\inbetween.jpg"
+	},
+	{
+		"name": "Left 4 Dead 2",
+		"path": "\"D:\\Games\\Left 4 Dead 2.exe\"",
+		"background": "client\\img\\games\\backgrounds\\l4d2.jpg",
+		"icon": "client\\img\\games\\l4d2.jpg"
+	},
+	{
+		"name": "Metro Last Light",
+		"path": "\"D:\\Games\\Metro Last Light.exe\"",
+		"background": "client\\img\\games\\backgrounds\\metroll.jpg",
+		"icon": "client\\img\\games\\metroll.jpg"
+	},
+	{
+		"name": "Monsters Love You!",
+		"path": "\"D:\\Games\\Monster Loves You!.exe\"",
+		"background": "client\\img\\games\\backgrounds\\mly.jpg",
+		"icon": "client\\img\\games\\mly.jpg"
+	},
+	{
+		"name": "Never Alone",
+		"path": "\"D:\\Games\\Never Alone.exe\"",
+		"background": "client\\img\\games\\backgrounds\\neveralone.jpg",
+		"icon": "client\\img\\games\\neveralone.jpg"
+	},
+	{
+		"name": "Ori and the Blind Forest",
+		"path": "C:\\Program Files\\Riot Games\\Ori and the Blind Forest.exe",
+		"background": "client\\img\\games\\backgrounds\\oriandforestbg.jpg",
+		"icon": "client\\img\\games\\oriandforest.jpg"
+	},
+	{
+		"name": "Omnibus",
+		"path": "\"D:\\Games\\Omnibus.exe\"",
+		"background": "client\\img\\games\\backgrounds\\omnibus.jpg",
+		"icon": "client\\img\\games\\omnibus.jpg"
+	},
+	{
+		"name": "Portal",
+		"path": "\"D:\\Games\\Portal.exe\"",
+		"background": "client\\img\\games\\backgrounds\\portal.jpg",
+		"icon": "client\\img\\games\\portal.jpg"
+	},
+	{
+		"name": "Portal 2",
+		"path": "\"D:\\Games\\Portal 2.exe\"",
+		"background": "client\\img\\games\\backgrounds\\portal2.jpg",
+		"icon": "client\\img\\games\\portal2.jpg"
+	},
+	{
+		"name": "Rocket League",
+		"path": "\"D:\\Games\\Rocket League.exe\"",
+		"background": "client\\img\\games\\backgrounds\\rocketleague.jpg",
+		"icon": "client\\img\\games\\rocketleague.jpg"
+	},
+	{
+		"name": "SOMA",
+		"path": "\"D:\\Games\\SOMA.exe\"",
+		"background": "client\\img\\games\\backgrounds\\soma.jpg",
+		"icon": "client\\img\\games\\soma.jpg"
+	},
+	{
+		"name": "Spirits",
+		"path": "\"D:\\Games\\Spirits.exe\"",
+		"background": "client\\img\\games\\backgrounds\\spirits.jpg",
+		"icon": "client\\img\\games\\spirits.jpg"
+	},
+	{
+		"name": "The Stanley Parable",
+		"path": "C:\\Program Files\\Riot Games\\The Stanley Parable.exe",
+		"background": "client\\img\\games\\backgrounds\\stanelyparabbg.jpg",
+		"icon": "client\\img\\games\\stanelyparab.jpg"
+	},
+	{
+		"name": "Stardew Valley",
+		"path": "\"D:\\Games\\Stardew Valley.exe\"",
+		"background": "client\\img\\games\\backgrounds\\stardew.jpg",
+		"icon": "client\\img\\games\\stardew.jpg"
+	},
+	{
+		"name": "Subnautica",
+		"path": "\"D:\\Games\\Subnautica.exe\"",
+		"background": "client\\img\\games\\backgrounds\\subnautica.jpg",
+		"icon": "client\\img\\games\\subnautica.jpg"
+	},
+	{
+		"name": "This War Of Mine",
+		"path": "\"D:\\Games\\This War Of Mine.exe\"",
+		"background": "client\\img\\games\\backgrounds\\twom.jpg",
+		"icon": "client\\img\\games\\twom.jpg"
+	},
+	{
+		"name": "Sid Meier's Civilization V",
+		"path": "\"D:\\Games\\Sid Meier's Civilization V.exe\"",
+		"background": "client\\img\\games\\backgrounds\\civv.jpg",
+		"icon": "client\\img\\games\\civv.jpg"
+	},
+	{
+		"name": "Sid Meier's Civilization VI",
+		"path": "\"D:\\Games\\Sid Meier's Civilization VI.exe\"",
+		"background": "client\\img\\games\\backgrounds\\civvi.jpg",
+		"icon": "client\\img\\games\\civvi.jpg"
+	},
+	{
+		"name": "That Dragon, Cancer",
+		"path": "\"D:\\Games\\That Dragon, Cancer.exe\"",
+		"background": "client\\img\\games\\backgrounds\\dragon.jpg",
+		"icon": "client\\img\\games\\dragon.jpg"
+	},
+	{
+		"name": "Trials Evolution Gold Edition",
+		"path": "\"D:\\Games\\Trials Evolution Gold Edition.exe\"",
+		"background": "client\\img\\games\\backgrounds\\trailsevo.jpg",
+		"icon": "client\\img\\games\\trailsevo.jpg"
+	},
+	{
+		"name": "Vanquish",
+		"path": "C:\\Program Files\\Riot Games\\Vanquish.exe",
+		"background": "client\\img\\games\\backgrounds\\vanquishbg.jpg",
+		"icon": "client\\img\\games\\vanquish.jpg"
+	},
+		{
+		"name": "What Remains of Edith Finch",
+		"path": "C:\\Program Files\\Riot Games\\What Remains of Edith Finch.exe",
+		"background": "client\\img\\games\\backgrounds\\edithfinchbg.jpg",
+		"icon": "client\\img\\games\\edithfinch.jpg"
+	}
+]

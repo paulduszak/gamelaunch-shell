@@ -1,59 +1,158 @@
 body {
-  background: #262626;
-  padding-top: 64px;
+  background: #050507;
+  transition: background 0.25s linear;
+  overflow:hidden;
+  -webkit-background-size: cover;
 }
+
+.gamelist::-webkit-scrollbar-track
+{
+  opacity: 0.0;
+}
+
+.gamelist::-webkit-scrollbar
+{
+	width: 12px;
+	opacity: 0.0;
+}
+
+.gamelist::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background: rgba(0,0,0,0.5);
+}
+
 
 .navbar {
- background: #181818;
- color: #484848;
- height: 64px;
+  background: rgba(0,0,0,0.4);
+  color: #dadada;
+  font-family: Arial Black;
+
 }
 
-.toolbar {
- background: #0068ac;
- border-top: 1px solid #0089e2;
- height: 50px;
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
 }
 
-.shield {
-    height: 58px;
+.navbar .navbar-right {
+  margin-top: 10px;
+  margin: 10px 15px 0 0;
 }
 
-#custom-search-input{
-    border-right: 1px solid #005e9b;
-    height: 49px;
+.navbar .clock {
+  color: #9a9a9a;
+  font-size: 32px;
+  opacity: 0.3;
 }
 
-#custom-search-input input{
-    color: #8cb2ca;
+.navbar .navLink {
+  color: #9a9a9a;
+  cursor: pointer;
+  font-size: 18px;
+  top: 50px;
+  opacity: 0.3;
+}
+
+.navbar .navLink:hover {
+  color: #9a9a9a;
+  font-size: 18px;
+  margin-top: 24px;
+  opacity: 0.7;
+}
+
+.navbar-brand img {
+  margin: -12px auto;
+  opacity: 0.7;
+}
+
+.gameTile {
+  width: 324px;
+  height: 151px;
+}
+
+figure {
+    position: relative;
+    display: inline-block;
+    width: 324px;
+}
+
+figure:hover .actions {
+    opacity: 1;
+}
+
+figure .actions {
+    display: block;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background-color: rgba(29,29,29,.7);
+    -ms-transition: all .2s ease-out;
+    -webkit-transition: all .2s ease-out;
+    -moz-transition: all .2s ease-out;
+    -o-transition: all .2s ease-out;
+    transition: all .2s ease-out;
+}
+
+figure img {
     border: 0;
-    box-shadow: none;
-    background: transparent;
-    padding-top: 15px;
+    width: 100%;
 }
 
-#custom-search-input input::-webkit-input-placeholder {
-    color: #8cb2ca;
+figure .actions button {
+    background: #0067aa;
+    color: #fff;
+    padding: 13px 20px;
+    font-size: 16px;
+    top: 32%;
+    position: absolute;
+    left: 50%;
+    width: 90%;
+    margin-left: -45%;
+    line-height: 18px;
+    letter-spacing: 1px;
 }
 
-#custom-search-input button{
+figure .actions:hover button {
+    color: #fff;
+}
 
-    background: none;
-    box-shadow: none;
-    border: 0;
-    color: #666666;
-    height: 50px;
 
+.gameControl {
+  color: #fff;
+  cursor: pointer;
+  opacity: 0.2;
+  margin-left: 20px;
+}
+
+.gamelist {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-bottom: 30px;
+  overflow-y: scroll;
+}
+
+.gameDirectory {
+  opacity: 0.9;
+}
+
+.fluidrow {
 
 }
 
-#custom-search-input button:hover{
-    border: 0;
-    box-shadow: none;
-}
-
-#custom-search-input .glyphicon-search{
-    color: #8cb2ca;
-    font-size: 18px;
-    padding-top: 3px;
+.fluidrow > .colimg {
+ display: inline-block;
+ margin: 0 20px 20px 0;
+ width:  324px;
+ float:none;
 }

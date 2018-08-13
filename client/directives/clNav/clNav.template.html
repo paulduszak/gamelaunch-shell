@@ -1,25 +1,16 @@
-<nav class="navbar navbar-fixed-top">
-  <div class="container-fluid">
-    <div class="navbar-header">
-        <img class="shield" src="client/img/shield.png" />
+<div class="container-fluid navbar">
+<nav class=" navbar-default navbar-static-top" role="navigation">
+  <div class="navbar-header">
+    <div class="navbar-brand"><img src="client/img/shield.png" /></div>
+  </div>
+  <div class="">
+    <div class="nav navbar-nav navbar-left">
+        <span class="clock">{{ clock  | date:'mediumTime'}}</span>
+    </div>
+    <div class="nav navbar-nav navbar-right">
+	  <span ng-click="volumeControl()" class="navLink"><span class="glyphicon glyphicon-headphones" aria-hidden="true"></span> Volume Control </span>&nbsp;
+      <span ng-click="logoff()" class="navLink"><span class="glyphicon glyphicon-off" aria-hidden="true"></span> Logout</span>
     </div>
   </div>
 </nav>
-<div class="toolbar">
-  <div class="container-fluid">
-      <div class="row">
-          <div class="col-md-3">
-            <div id="custom-search-input">
-              <div class="input-group col-md-12">
-                  <input type="text" class="form-control input-lg" placeholder="Search games" />
-                  <span class="input-group-btn">
-                      <button class="btn btn-info btn-lg" type="button">
-                          <i class="glyphicon glyphicon-search"></i>
-                      </button>
-                  </span>
-              </div>
-          </div>
-      </div>
-  </div>
-</div>
 </div>

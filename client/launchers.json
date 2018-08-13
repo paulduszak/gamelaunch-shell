@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Battle.net",
+		"path": "\"D:\\Launchers\\Blizzard App\\Battle.net Launcher.exe\"",
+		"background": "client\\img\\games\\backgrounds\\battlenet.jpg",
+		"icon": "client\\img\\games\\blizzard.jpg"
+	},
+	{
+		"name": "Good Old Games",
+		"path": "\"D:\\Launchers\\GOG\\GalaxyClient.exe\"",
+		"background": "client\\img\\games\\backgrounds\\gogbg.jpg",
+		"icon": "client\\img\\games\\gog.jpg"
+	},
+	{
+		"name": "League of Legends",
+		"path": "\"D:\\Riot Games\\League of Legends\\LeagueClient.exe\"",
+		"background": "client\\img\\games\\backgrounds\\league.png",
+		"icon": "client\\img\\games\\league.jpg"
+	},
+	{
+		"name": "Origin",
+		"path": "\"D:\\Launchers\\Origin\\Origin.exe\"",
+		"background": "client\\img\\games\\backgrounds\\origin.jpg",
+		"icon": "client\\img\\games\\origin.jpg"
+	},
+	{
+		"name": "Steam",
+		"path": "\"D:\\Steam\\Steam.exe\"",
+		"background": "client\\img\\games\\backgrounds\\steam.jpg",
+		"icon": "client\\img\\games\\steam.jpg"
+	},
+	{
+		"name": "Uplay",
+		"path": "\"D:\\Launchers\\Ubisoft Game Launcher\\Uplay.exe\"",
+		"background": "client\\img\\games\\backgrounds\\uplay.jpg",
+		"icon": "client\\img\\games\\uplay.jpg"
+	}
+]

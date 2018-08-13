@@ -1,0 +1,9 @@
+<h2 class="gameControl" ng-click="collapse(clTitle)">{{clTitle}}</h2>
+
+<div class="gameDirectory" uib-collapse="isCollapsed">
+  <div class="container-fluid fluidrow">
+    <div data-ng-repeat="title in titles" class="colimg">
+      <cl-game game-dir="{{title.path}}" game-img="{{title.icon}}" game-bg="{{title.background}}">
+    </div>
+  </div>
+</div>

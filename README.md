@@ -6,7 +6,9 @@
 
 CDM Lauch is a Windows shell replacement which allows users to install and launch Steam, Uplay, Origin, GOG, Battle.net, LOL games. It allows all domain users to have administrative access to a machine, but it locks down access to specific applications exposed by the shell. 
 
-## Packaging
+## Testing and Packaging
+
+In order to quickly test changes on Windows, the easiest way to run the app is to drag the folder onto ```nw.exe```, or a shortcut to ```nw.exe```. Remember to drag the folder containing ```package.json```, and not ```package.json``` itself.
 
 Package all CDMLaunch files into a zip file and rename it as `package.nw`. Move the zip file into the same folder as NW.js binaries. Run the following command to generate an executable package:
 ```sh

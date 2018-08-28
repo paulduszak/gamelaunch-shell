@@ -1,4 +1,9 @@
-[
+[	{
+		"name": "Akiba's Trip Undead & Undressed",
+		"path": "\"D:\\Games\\AkibaUU.exe\"",
+		"background": "client\\img\\games\\backgrounds\\akiba.jpg",
+		"icon": "client\\img\\games\\akiba.jpg"
+	},
 	{
 		"name": "Amnesia The Dark Descent",
 		"path": "\"D:\\Games\\Amnesia The Dark Descent.exe\"",
@@ -12,22 +17,28 @@
 		"icon": "client\\img\\games\\auditorium.jpg"
 	},
 	{
-		"name": "The Beginner's Guide",
-		"path": "C:\\Program Files\\Riot Games\\The Beginners Guide.exe",
-		"background": "client\\img\\games\\backgrounds\\beginnersbg.jpg",
+		"name": "The Beginners Guide",
+		"path": "\"D:\\Games\\The Beginners Guide.exe\"",
+		"background": "client\\img\\games\\backgrounds\\beginners.jpg",
 		"icon": "client\\img\\games\\beginners.jpg"
 	},
 	{
 		"name": "Binding of Isaac",
 		"path": "\"D:\\Games\\Binding of Isaac.exe\"",
-		"background": "client\\img\\games\\backgrounds\\binding.jpg",
-		"icon": "client\\img\\games\\binding.jpg"
+		"background": "client\\img\\games\\backgrounds\\braid.jpg",
+		"icon": "client\\img\\games\\Braid.jpg"
 	},
 	{
 		"name": "Braid",
 		"path": "\"D:\\Games\\Braid.exe\"",
-		"background": "client\\img\\games\\backgrounds\\braid.jpg",
-		"icon": "client\\img\\games\\Braid.jpg"
+		"background": "client\\img\\games\\backgrounds\\binding.jpg",
+		"icon": "client\\img\\games\\binding.jpg"
+	},
+		{
+		"name": "Child of Light",
+		"path": "\"D:\\Games\\Child of Light.exe\"",
+		"background": "client\\img\\games\\backgrounds\\child.jpg",
+		"icon": "client\\img\\games\\child.jpg"
 	},
 	{
 		"name": "Counter Strike Global Offensive",
@@ -36,9 +47,15 @@
 		"icon": "client\\img\\games\\csgo.jpg"
 	},
 	{
+		"name": "Counter Strike: Source",
+		"path": "\"D:\\Games\\Counter Strike: Source.exe\"",
+		"background": "client\\img\\games\\backgrounds\\css.jpg",
+		"icon": "client\\img\\games\\css.jpg"
+	},
+	{
 		"name": "Cuphead",
-		"path": "C:\\Program Files\\Riot Games\\Cuphead.exe",
-		"background": "client\\img\\games\\backgrounds\\cupheadbg.jpg",
+		"path": "\"D:\\Games\\Cuphead.exe\"",
+		"background": "client\\img\\games\\backgrounds\\cuphead.jpg",
 		"icon": "client\\img\\games\\cuphead.jpg"
 	},
 	{
@@ -78,16 +95,34 @@
 		"icon": "client\\img\\games\\elegy.jpg"
 	},
 	{
-		"name": "Everything",
-		"path": "\"D:\\Games\\Everything.exe\"",
-		"background": "client\\img\\games\\backgrounds\\everything.jpg",
-		"icon": "client\\img\\games\\everything.jpg"
+		"name": "Evoland 2",
+		"path": "\"D:\\Games\\Evoland 2.exe\"",
+		"background": "client\\img\\games\\backgrounds\\evoland.jpg",
+		"icon": "client\\img\\games\\evoland.jpg"
 	},
 	{
 		"name": "Fran Bow",
 		"path": "\"D:\\Games\\Fran Bow.exe\"",
 		"background": "client\\img\\games\\backgrounds\\franbow.jpg",
 		"icon": "client\\img\\games\\franbow.jpg"
+	},
+	{
+		"name": "Funk Unplugged",
+		"path": "\"D:\\Games\\Funk Unplugged.exe\"",
+		"background": "client\\img\\games\\backgrounds\\funk.jpg",
+		"icon": "client\\img\\games\\funk.jpg"
+	},
+	{
+		"name": "Furi",
+		"path": "\"D:\\Games\\Furi.exe\"",
+		"background": "client\\img\\games\\backgrounds\\furi.jpg",
+		"icon": "client\\img\\games\\furi.jpg"
+	},
+	{
+		"name": "Gemini Heroes Reborn",
+		"path": "\"D:\\Games\\Gemini Heroes Reborn.exe\"",
+		"background": "client\\img\\games\\backgrounds\\gemini.jpg",
+		"icon": "client\\img\\games\\gemini.jpg"
 	},
 	{
 		"name": "Goat Simulator",
@@ -102,22 +137,46 @@
 		"icon": "client\\img\\games\\gonehome.jpg"
 	},
 	{
+		"name": "Half Life: 2",
+		"path": "\"D:\\Games\\Half Life: 2.exe\"",
+		"background": "client\\img\\games\\backgrounds\\hl2.jpg",
+		"icon": "client\\img\\games\\hl2.jpg"
+	},
+	{
+		"name": "A Hat in Time",
+		"path": "\"D:\\Games\\A Hat in Time.exe\"",
+		"background": "client\\img\\games\\backgrounds\\hatintime.jpg",
+		"icon": "client\\img\\games\\hatintime.jpg"
+	},
+	{
+		"name": "Hollow Knight",
+		"path": "\"D:\\Games\\Hollow Knight.exe\"",
+		"background": "client\\img\\games\\backgrounds\\hollowknight.jpg",
+		"icon": "client\\img\\games\\hollowknight.jpg"
+	},
+	{
+		"name": "Hover",
+		"path": "\"D:\\Games\\Hover.exe\"",
+		"background": "client\\img\\games\\backgrounds\\hover.jpg",
+		"icon": "client\\img\\games\\hover.jpg"
+	},
+	{
 		"name": "In Between",
 		"path": "\"D:\\Games\\In Between.exe\"",
 		"background": "client\\img\\games\\backgrounds\\inbetween.jpg",
 		"icon": "client\\img\\games\\inbetween.jpg"
 	},
 	{
+		"name": "Left 4 Dead",
+		"path": "\"D:\\Games\\Left 4 Dead.exe\"",
+		"background": "client\\img\\games\\backgrounds\\l4d.jpg",
+		"icon": "client\\img\\games\\l4d.jpg"
+	},
+	{
 		"name": "Left 4 Dead 2",
 		"path": "\"D:\\Games\\Left 4 Dead 2.exe\"",
 		"background": "client\\img\\games\\backgrounds\\l4d2.jpg",
 		"icon": "client\\img\\games\\l4d2.jpg"
-	},
-	{
-		"name": "Metro Last Light",
-		"path": "\"D:\\Games\\Metro Last Light.exe\"",
-		"background": "client\\img\\games\\backgrounds\\metroll.jpg",
-		"icon": "client\\img\\games\\metroll.jpg"
 	},
 	{
 		"name": "Monsters Love You!",
@@ -132,16 +191,22 @@
 		"icon": "client\\img\\games\\neveralone.jpg"
 	},
 	{
-		"name": "Ori and the Blind Forest",
-		"path": "C:\\Program Files\\Riot Games\\Ori and the Blind Forest.exe",
-		"background": "client\\img\\games\\backgrounds\\oriandforestbg.jpg",
-		"icon": "client\\img\\games\\oriandforest.jpg"
+		"name": "Octodad Dadliest Catch",
+		"path": "\"D:\\Games\\Octodad Dadliest Catch.exe\"",
+		"background": "client\\img\\games\\backgrounds\\octodad.jpg",
+		"icon": "client\\img\\games\\octodad.jpg"
 	},
 	{
 		"name": "Omnibus",
 		"path": "\"D:\\Games\\Omnibus.exe\"",
 		"background": "client\\img\\games\\backgrounds\\omnibus.jpg",
 		"icon": "client\\img\\games\\omnibus.jpg"
+	},
+{
+		"name": "Ori and the Blind Forest",
+		"path": "\"D:\\Games\\Ori and the Blind Forest.exe\"",
+		"background": "client\\img\\games\\backgrounds\\ori.jpg",
+		"icon": "client\\img\\games\\ori.jpg"
 	},
 	{
 		"name": "Portal",
@@ -155,11 +220,29 @@
 		"background": "client\\img\\games\\backgrounds\\portal2.jpg",
 		"icon": "client\\img\\games\\portal2.jpg"
 	},
+{
+		"name": "Rabi-Ribi",
+		"path": "\"D:\\Games\\Rabi-Ribi.exe\"",
+		"background": "client\\img\\games\\backgrounds\\rabi.jpg",
+		"icon": "client\\img\\games\\rabi.jpg"
+	},
 	{
 		"name": "Rocket League",
 		"path": "\"D:\\Games\\Rocket League.exe\"",
 		"background": "client\\img\\games\\backgrounds\\rocketleague.jpg",
 		"icon": "client\\img\\games\\rocketleague.jpg"
+	},
+	{
+		"name": "Sid Meier's Civilization IV",
+		"path": "\"D:\\Games\\Sid Meier's Civilization IV.exe\"",
+		"background": "client\\img\\games\\backgrounds\\civiv.jpg",
+		"icon": "client\\img\\games\\civiv.jpg"
+	},
+	{
+		"name": "Sid Meier's Civilization V",
+		"path": "\"D:\\Games\\Sid Meier's Civilization V.exe\"",
+		"background": "client\\img\\games\\backgrounds\\civv.jpg",
+		"icon": "client\\img\\games\\civv.jpg"
 	},
 	{
 		"name": "SOMA",
@@ -175,9 +258,9 @@
 	},
 	{
 		"name": "The Stanley Parable",
-		"path": "C:\\Program Files\\Riot Games\\The Stanley Parable.exe",
-		"background": "client\\img\\games\\backgrounds\\stanelyparabbg.jpg",
-		"icon": "client\\img\\games\\stanelyparab.jpg"
+		"path": "\"D:\\Games\\The Stanley Parable.exe\"",
+		"background": "client\\img\\games\\backgrounds\\stanely.jpg",
+		"icon": "client\\img\\games\\stanely.jpg"
 	},
 	{
 		"name": "Stardew Valley",
@@ -192,22 +275,16 @@
 		"icon": "client\\img\\games\\subnautica.jpg"
 	},
 	{
-		"name": "This War Of Mine",
-		"path": "\"D:\\Games\\This War Of Mine.exe\"",
-		"background": "client\\img\\games\\backgrounds\\twom.jpg",
-		"icon": "client\\img\\games\\twom.jpg"
+		"name": "Supreme Commander 2",
+		"path": "\"D:\\Games\\Supreme Commander 2.exe\"",
+		"background": "client\\img\\games\\backgrounds\\supreme.jpg",
+		"icon": "client\\img\\games\\supreme.jpg"
 	},
 	{
-		"name": "Sid Meier's Civilization V",
-		"path": "\"D:\\Games\\Sid Meier's Civilization V.exe\"",
-		"background": "client\\img\\games\\backgrounds\\civv.jpg",
-		"icon": "client\\img\\games\\civv.jpg"
-	},
-	{
-		"name": "Sid Meier's Civilization VI",
-		"path": "\"D:\\Games\\Sid Meier's Civilization VI.exe\"",
-		"background": "client\\img\\games\\backgrounds\\civvi.jpg",
-		"icon": "client\\img\\games\\civvi.jpg"
+		"name": "Team Fortress 2",
+		"path": "\"D:\\Games\\Team Fortress 2.exe\"",
+		"background": "client\\img\\games\\backgrounds\\tf2.jpg",
+		"icon": "client\\img\\games\\tf2.jpg"
 	},
 	{
 		"name": "That Dragon, Cancer",
@@ -216,21 +293,33 @@
 		"icon": "client\\img\\games\\dragon.jpg"
 	},
 	{
-		"name": "Trials Evolution Gold Edition",
-		"path": "\"D:\\Games\\Trials Evolution Gold Edition.exe\"",
-		"background": "client\\img\\games\\backgrounds\\trailsevo.jpg",
-		"icon": "client\\img\\games\\trailsevo.jpg"
+		"name": "This War Of Mine",
+		"path": "\"D:\\Games\\This War Of Mine.exe\"",
+		"background": "client\\img\\games\\backgrounds\\twom.jpg",
+		"icon": "client\\img\\games\\twom.jpg"
 	},
 	{
 		"name": "Vanquish",
-		"path": "C:\\Program Files\\Riot Games\\Vanquish.exe",
-		"background": "client\\img\\games\\backgrounds\\vanquishbg.jpg",
+		"path": "\"D:\\Games\\Vanquish.exe\"",
+		"background": "client\\img\\games\\backgrounds\\vanquish.jpg",
 		"icon": "client\\img\\games\\vanquish.jpg"
 	},
-		{
+	{
+		"name": "Verdun",
+		"path": "\"D:\\Games\\Verdun.exe\"",
+		"background": "client\\img\\games\\backgrounds\\verdun.jpg",
+		"icon": "client\\img\\games\\verdun.jpg"
+	},
+	{
 		"name": "What Remains of Edith Finch",
-		"path": "C:\\Program Files\\Riot Games\\What Remains of Edith Finch.exe",
-		"background": "client\\img\\games\\backgrounds\\edithfinchbg.jpg",
-		"icon": "client\\img\\games\\edithfinch.jpg"
+		"path": "\"D:\\Games\\What Remains of Edith Finch.exe\"",
+		"background": "client\\img\\games\\backgrounds\\edith.jpg",
+		"icon": "client\\img\\games\\edith.jpg"
+	},
+	{
+		"name": "Worms Revolution",
+		"path": "\"D:\\Games\\Worms Revolution.exe\"",
+		"background": "client\\img\\games\\backgrounds\\worms.jpg",
+		"icon": "client\\img\\games\\worms.jpg"
 	}
 ]
